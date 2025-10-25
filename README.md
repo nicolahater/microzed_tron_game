@@ -1,4 +1,4 @@
-# Tron Light Cycles on MicroZed (Embedded C)
+# Tron Light Cycles on MicroZed
 
 Real-time **Tron/Light Cycles** game for the **Xilinx Zynq-7000 (Z-7010) MicroZed** evaluation kit.  
 Runs on the classroom **MZ_APO** setup with LCD, RGB LEDs, and three rotary encoders (red/green/blue).  
